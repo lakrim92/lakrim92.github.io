@@ -1,6 +1,6 @@
 baseURL: https://lakrim2.github.io
-languageCode: en-us
-title: Example Site
+languageCode: fr
+title: Portfolio - Georges Dietrich
 
 module:
   imports:
@@ -31,19 +31,19 @@ module:
 # Manage languages
 # For any more details, you can check the official documentation: https://gohugo.io/content-management/multilingual/
 languages:
+  fr:
+    languageCode: fr
+    languageName: Français
+    title: "Portfolio - Georges Dietrich"
+    weight: 1
   en:
     languageCode: en
     languageName: English
-    title: "John's Blog"
-    weight: 1
-  bn:
-    languageCode: bn
-    languageName: বাংলা
-    title: "জনের ব্লগ"
+    title: "Portfolio - Georges Dietrich"
     weight: 2
 
 # default language for the content
-defaultContentLanguage: en
+defaultContentLanguage: fr
 
 # Allow raw html in markdown file
 markup:
@@ -80,12 +80,12 @@ params:
   # Provide logos for your site. The inverted logo will be used in the initial
   # transparent navbar and the main logo will be used in the non-transparent navbar.
   logo:
-    main: /images/site/main-logo.png
-    inverted: /images/site/inverted-logo.png
+    main: /images/site/light-logo.png
+    inverted: /images/site/dark-logo.png
     favicon: /images/site/favicon.png
 
   # GitHub repo of your site
-  gitRepo: https://github.com/lakrim92/lakrim92/lakrim92.github.io
+  gitRepo: https://github.com/lakrim92/lakrim92.github.io
   # Default branch of your Git repo
   gitBranch: main
 

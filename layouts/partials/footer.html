@@ -110,11 +110,11 @@
                   <span><i class="fas fa-phone-alt"></i></span> <span>{{ $value }}</span>
                 </a></li>
               {{ else if (eq $key "linkedin") }}
-                <li><a href={{ printf "https://www.linkedin.com/in/%s" $value }} target="_blank" rel="noopener">
+                <li><a href={{ printf "https://%s" $value }} target="_blank" rel="noopener">
                   <span><i class="fab fa-linkedin"></i></span> <span>{{ $author.name }}</span>
                 </a></li>
               {{ else if (eq $key "github") }}
-                <li><a href={{ printf "https://github.com/%s" $value }} target="_blank" rel="noopener">
+                <li><a href={{ printf "%s" $value }} target="_blank" rel="noopener">
                   <span><i class="fab fa-github"></i></span> <span>{{ $value }}</span>
                 </a></li>
               {{ else if (eq $key "researchgate") }}
