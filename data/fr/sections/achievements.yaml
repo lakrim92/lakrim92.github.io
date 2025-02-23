@@ -3,7 +3,7 @@ section:
   name: Réalisations # Titre de votre section (default: "")
   id: achievements # URL id/slug de section *valeur à conserver & obligatoire*
   enable: true # Booléen pour déterminer si la section est activée (par défaut: false)
-  weight: 9 # Ordre d'affichage de la section (par defaut: alphabetique suivi par poids)
+  weight: 10 # Ordre d'affichage de la section (par defaut: alphabetique suivi par poids)
   showOnNavbar: true # Booléen pour déterminer si le lien doit être affiché pour cette section dans la barre de navigation
   # Peut optionnellement masquer les titres de la section
   # hideTitle: true

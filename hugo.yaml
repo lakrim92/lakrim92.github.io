@@ -44,6 +44,7 @@ languages:
 
 # default language for the content
 defaultContentLanguage: fr
+defaultContentLanguageInSubdir: true
 
 # Allow raw html in markdown file
 markup:

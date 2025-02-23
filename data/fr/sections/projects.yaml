@@ -24,7 +24,7 @@ projects:
   role: Développeur Full-Stack
   timeline: "Septembre 2024 - Present"
   repo: 
-   url: "https://escalierdeservie.fr"
+  url: "https://escalierdeservie.fr"
   summary: Développement d'un site web dynamique en PHP avec un panel d'administration permettant la gestion des contenus, des auteurs et des livres. Mise en place d'un système de visibilité des éléments, gestion des stocks et des catégories, et optimisation des performances pour une meilleure expérience utilisateur.
   tags: ["professional", "PHP", "Full-Stack", "Administration Panel", "Web Development", "CMS", "Backend", "MySQL"]
 
@@ -52,7 +52,7 @@ projects:
   role: Technicien et exploitation informatique
   timeline: "Fevrier 2024"
   repo: https://github.com/lakrim92/CNAM-docker.git
-   # url: ""
+  # url: ""
   summary: Ce projet consiste en une série d'exercices pratiques sur Docker et Docker Compose, incluant la création et le déploiement d'images Docker, l'utilisation d'un registre privé, ainsi que l'hébergement d'un site Hugo avec Nginx. Les tâches couvrent l'installation et la configuration de conteneurs Nginx et WordPress, la gestion des images Docker avec docker tag et docker push, et la mise en place d'une infrastructure web conteneurisée avec Docker Compose.
   tags: ["academic", "docker", "nginx", "wordpress", "hugo", "devops", "docker-compose", "containerization"]
 
@@ -61,7 +61,7 @@ projects:
   role: Développeur Web / Administrateur WordPress
   timeline: "Mai 2024"
   repo: https://github.com/lakrim92/site_wordpress.git
-   # url: ""
+  # url: ""
   summary: Dans le cadre de mon cursus au CNAM, j'ai développé un site WordPress en PHP. Ce projet m'a permis de mettre en pratique mes compétences en création de sites web, gestion de contenu, et configuration de plugins sous WordPress. J'ai assuré la configuration de la plateforme, l'optimisation du site pour les utilisateurs, et la personnalisation selon les besoins du projet.
   tags: ["academic", "PHP", "développement web", "gestion de contenu", "site academique", "otpimisation web"]
 
@@ -70,7 +70,7 @@ projects:
   role: Ingénieur Systèmes / DevOps
   timeline: "Aout 2024"
   repo: https://github.com/lakrim92/debian_perso.git
-   # url: ""
+  # url: ""
   summary: Dans le cadre d’un projet professionnel durant mon stage au sein de l'entreprise Le garage numérique, j’ai développé une image Debian sur mesure en intégrant des configurations spécifiques et des optimisations adaptées à mes besoins. Ce projet m’a permis d’explorer la personnalisation avancée du système, l’automatisation de l’installation de logiciels et la gestion des configurations pour un déploiement efficace.
   tags: ["professional", "debian", "sytèmes embarqués", "personnalisation OS", "devops", "automatisation"]
 
@@ -79,7 +79,7 @@ projects:
   role: Développeur en Trading Algorithmique
   timeline: "Fevrier 2025 - Present"
   repo: 
-   # url: ""
+  # url: ""
   summary: Le projet consiste à développer un programme de trading algorithmique permettant d'opérer sur différents marchés financiers tels que les actions, le forex, ou les crypto-monnaies. Le système intègre des stratégies de trading avancées comme l'analyse technique, l'apprentissage automatique, et la gestion des risques. Il est déployé sur une infrastructure cloud ou VPS pour garantir sa scalabilité et sa disponibilité. Le programme est conçu pour surveiller les performances en temps réel, détecter les anomalies et offrir une réponse rapide aux opportunités de trading. Il respecte les régulations et intègre des mesures de sécurité pour protéger les transactions et les données sensibles.
   tags: ["hobby", "Trading Algorithmique", "Machine Learnig", "Backtesting", "Cloud", "VPS", "Sécurité", "automatisation", Scalabilité]
 
@@ -88,6 +88,6 @@ projects:
   role: Administrateur Système
   timeline: "Decembre 2024"
   repo: 
-   # url: ""
+  # url: ""
   summary: Le projet consiste à mettre en place un serveur sécurisé en utilisant des pratiques de sécurité standard pour protéger les données et assurer la disponibilité du système. Il inclut l'installation de logiciels nécessaires comme NGINX, OpenSSH, et Fail2Ban pour la gestion des connexions et la protection contre les attaques. L'utilisation de UFW (Uncomplicated Firewall) permet de contrôler les accès réseau, tandis que l'installation de ClamAV assure une protection contre les malwares. Ce projet vise à sécuriser l'infrastructure et à garantir un environnement fiable pour les applications web, tout en implémentant des procédures de log et de surveillance pour une gestion proactive de la sécurité.
   tags: ["professional", "Serveur Sécurisé", "NGINX", "OPenSSH", "UFW", "ClamAv", "Sécurité Système", "Firewall", "Surveillance", "Protections contre les Malwares", "Administration Système", "Configurations Sécurisées"]
