@@ -15,7 +15,7 @@ experiences:
       name: Studi
       url: "https://www.studi.com" # Remplacez par l'URL réelle si disponible
       location: Bougival
-      logo: /images/sections/experiences/studi-dark.jpg
+      logo: /images/sections/experiences/Studi_dark.svg
       # Vous pouvez éventuellement afficher un logo différent pour le thème sombre
       # darkLogo: /images/sections/experiences/le-garage-numerique-dark.jpg
       overview: Studi est un établissement spécialisé dans la formation au développement web, avec un accent particulier sur les technologies front-end et back-end.
@@ -62,7 +62,7 @@ experiences:
       name: Freelance Dietrich Georges
       url: "#" # Lien à remplir si disponible
       location: Ile de France
-      logo: "#" # Lien à remplir si disponible
+      logo: "/images/site/light-logo.png" # Lien à remplir si disponible
       overview: |
         En tant que freelance, je combine mes compétences en tant que technicien informatique et développeur web fullstack. Avec une expertise dans les technologies modernes telles que Flutter, ReactJS, PHP et WordPress, je crée des applications web et mobiles sur mesure, adaptées aux besoins spécifiques de chaque client. Ma solide expérience en dépannage informatique, ainsi que mon approche orientée vers la performance et la fiabilité, me permet de fournir des solutions complètes, allant de la gestion des infrastructures informatiques à la conception d'applications innovantes. Mon objectif est de livrer des projets qui améliorent l'efficacité, la sécurité et l'expérience utilisateur.
     positions:

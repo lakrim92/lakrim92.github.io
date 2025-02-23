@@ -16,7 +16,7 @@ degrees:
   institution:
     name: CNAM, Paris
     url: "#"
-    logo: /images/sections/education/cnam-logo.png
+    logo: /images/sections/education/CNAM_Logo.svg.png
     # Peut également afficher un logo différent pour le thème sombre
     # darkLogo: /images/sections/education/cnam-logo-dark.png
   # grade: #(optionnel)
@@ -47,7 +47,7 @@ degrees:
   institution:
     name: La Piscine | École 42
     url: "#"
-    logo: /images/sections/education/ecole42-logo.png
+    logo: /images/sections/education/42.jpg
     # Peut également afficher un logo différent pour le thème sombre
     # darkLogo: /images/sections/education/ecole42-logo-dark.png
   # grade: #(optionnel)
@@ -77,7 +77,7 @@ degrees:
   institution:
     name: Studi
     url: "https://www.studi.com"
-    logo: /images/sections/education/studi-logo.png
+    logo: /images/sections/education/Studi_dark.svg
     # Peut également afficher un logo différent pour le thème sombre
     # darkLogo: /images/sections/education/studi-logo-dark.png
   # grade: #(optionnel)
