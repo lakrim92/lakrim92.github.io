@@ -2,215 +2,217 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/notes/go/basic/</loc>
+    <loc>http://localhost:37635/fr/notes/go/basic/</loc>
   </url><url>
-    <loc>http://localhost:1313/notes/go/basic/_index.bn/</loc>
+    <loc>http://localhost:37635/fr/notes/go/basic/_index.bn/</loc>
   </url><url>
-    <loc>http://localhost:1313/notes/go/basic/introduction/</loc>
+    <loc>http://localhost:37635/fr/notes/go/basic/introduction/</loc>
   </url><url>
-    <loc>http://localhost:1313/notes/go/advanced/</loc>
+    <loc>http://localhost:37635/fr/notes/go/advanced/</loc>
   </url><url>
-    <loc>http://localhost:1313/notes/go/basic/types/</loc>
+    <loc>http://localhost:37635/fr/notes/go/basic/types/</loc>
   </url><url>
-    <loc>http://localhost:1313/notes/go/advanced/_index.bn/</loc>
+    <loc>http://localhost:37635/fr/notes/go/advanced/_index.bn/</loc>
   </url><url>
-    <loc>http://localhost:1313/notes/go/basic/flow-control/</loc>
+    <loc>http://localhost:37635/fr/notes/go/basic/flow-control/</loc>
   </url><url>
-    <loc>http://localhost:1313/notes/go/advanced/files/</loc>
+    <loc>http://localhost:37635/fr/notes/go/advanced/files/</loc>
   </url><url>
-    <loc>http://localhost:1313/notes/bash/basic/</loc>
+    <loc>http://localhost:37635/fr/notes/bash/basic/</loc>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>http://localhost:37635/fr/search/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <priority>0.1</priority>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>http://localhost:37635/fr/search/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <priority>0.1</priority>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>http://localhost:37635/fr/search/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <priority>0.1</priority>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>http://localhost:37635/fr/search/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <priority>0.1</priority>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>http://localhost:37635/fr/search/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <priority>0.1</priority>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>http://localhost:37635/fr/search/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <priority>0.1</priority>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>http://localhost:37635/fr/search/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <priority>0.1</priority>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>http://localhost:37635/fr/search/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <priority>0.1</priority>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>http://localhost:37635/fr/search/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <priority>0.1</priority>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>http://localhost:37635/fr/search/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <priority>0.1</priority>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>http://localhost:37635/fr/search/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <priority>0.1</priority>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>http://localhost:37635/fr/search/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <priority>0.1</priority>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>http://localhost:37635/fr/search/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <priority>0.1</priority>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>http://localhost:37635/fr/search/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <priority>0.1</priority>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>http://localhost:37635/fr/search/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <priority>0.1</priority>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>http://localhost:37635/fr/search/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <priority>0.1</priority>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>http://localhost:37635/fr/search/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <priority>0.1</priority>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>http://localhost:37635/fr/search/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <priority>0.1</priority>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>http://localhost:37635/fr/search/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <priority>0.1</priority>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>http://localhost:37635/fr/search/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <priority>0.1</priority>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>http://localhost:37635/fr/search/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <priority>0.1</priority>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>http://localhost:37635/fr/search/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <priority>0.1</priority>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>http://localhost:37635/fr/search/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <priority>0.1</priority>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>http://localhost:37635/fr/search/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <priority>0.1</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/basic/</loc>
+    <loc>http://localhost:37635/fr/tags/basic/</loc>
     <lastmod>2020-06-08T08:06:25+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/basic/</loc>
+    <loc>http://localhost:37635/fr/categories/basic/</loc>
     <lastmod>2020-06-08T08:06:25+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2020-06-08T08:06:25+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/categories/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/tags/content-organization/</loc>
-    <lastmod>2020-06-08T08:06:25+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/introduction/</loc>
-    <lastmod>2020-06-08T08:06:25+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/markdown/</loc>
-    <lastmod>2020-06-08T08:06:25+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/markdown-sample/</loc>
-    <lastmod>2020-06-08T08:06:25+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/multi-lingual/</loc>
-    <lastmod>2020-06-08T08:06:25+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:37635/fr/categories/</loc>
     <lastmod>2020-06-08T08:06:25+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/"
+                href="http://localhost:37635/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/"
+                href="http://localhost:37635/fr/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>http://localhost:37635/fr/tags/content-organization/</loc>
     <lastmod>2020-06-08T08:06:25+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/category/sub-category/rich-content/</loc>
+    <loc>http://localhost:37635/fr/posts/introduction/</loc>
     <lastmod>2020-06-08T08:06:25+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/shortcodes/</loc>
+    <loc>http://localhost:37635/fr/tags/markdown/</loc>
     <lastmod>2020-06-08T08:06:25+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/category/sub-category/</loc>
+    <loc>http://localhost:37635/fr/posts/markdown-sample/</loc>
     <lastmod>2020-06-08T08:06:25+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:37635/fr/tags/multi-lingual/</loc>
+    <lastmod>2020-06-08T08:06:25+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:37635/fr/</loc>
     <lastmod>2020-06-08T08:06:25+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/"
+                href="http://localhost:37635/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/tags/"
+                href="http://localhost:37635/fr/"
                 />
   </url><url>
-    <loc>http://localhost:1313/posts/category/</loc>
+    <loc>http://localhost:37635/fr/posts/</loc>
     <lastmod>2020-06-08T08:06:25+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/notes/</loc>
+    <loc>http://localhost:37635/fr/posts/category/sub-category/rich-content/</loc>
+    <lastmod>2020-06-08T08:06:25+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:37635/fr/posts/shortcodes/</loc>
+    <lastmod>2020-06-08T08:06:25+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:37635/fr/posts/category/sub-category/</loc>
+    <lastmod>2020-06-08T08:06:25+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:37635/fr/tags/</loc>
+    <lastmod>2020-06-08T08:06:25+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:37635/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:37635/fr/tags/"
+                />
+  </url><url>
+    <loc>http://localhost:37635/fr/posts/category/</loc>
+    <lastmod>2020-06-08T08:06:25+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:37635/fr/notes/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>http://localhost:37635/fr/search/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/notes/bash/</loc>
+    <loc>http://localhost:37635/fr/fr/</loc>
   </url><url>
-    <loc>http://localhost:1313/notes/go/</loc>
+    <loc>http://localhost:37635/fr/notes/bash/</loc>
   </url><url>
-    <loc>http://localhost:1313/notes/go/_index.bn/</loc>
+    <loc>http://localhost:37635/fr/notes/go/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/category/sub-category/_index.bn/</loc>
+    <loc>http://localhost:37635/fr/notes/go/_index.bn/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/category/_index.bn/</loc>
+    <loc>http://localhost:37635/fr/posts/category/sub-category/_index.bn/</loc>
   </url><url>
-    <loc>http://localhost:1313/notes/_index.bn/</loc>
+    <loc>http://localhost:37635/fr/posts/category/_index.bn/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/_index.bn/</loc>
+    <loc>http://localhost:37635/fr/notes/_index.bn/</loc>
   </url><url>
-    <loc>http://localhost:1313/notes/bash/_index.bn/</loc>
+    <loc>http://localhost:37635/fr/posts/_index.bn/</loc>
+  </url><url>
+    <loc>http://localhost:37635/fr/notes/bash/_index.bn/</loc>
   </url>
 </urlset>
