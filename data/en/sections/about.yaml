@@ -8,79 +8,63 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Software Engineer
+designation: Full-Stack Web Developer - Flutter & DevOps
 # your company information
-company:
-  name: Example Co.
-  url: "https://www.example.com"
+# company: #
+#   name: #
+#   url: "#"
 
 # your resume. this file path should be relative to you "static" directory
 # Dreprecated. Use resourceLinks instead.
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary: "I am a dynamic full-stack web developer specializing in Flutter and DevOps. My expertise allows me to design interactive and high-performance web applications while developing sophisticated automation scripts. I also specialize in creating secure servers and custom operating systems, thereby optimizing infrastructure to meet the specific needs of each project.<br><br> In parallel, I am enhancing my skills with ongoing certifications from OpenClassrooms, Cisco Packet Tracer, and AWS, to stay at the forefront of technological innovations.<br><br> A graduate in Development and IT Operations from CNAM Paris, I combine a solid academic background with extensive professional experience to deliver modern and effective solutions in development and operations."
+
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "example@gmail.com"
+  url: "gdietrich@live.fr"
 
 - name: Github
   icon: "fab fa-github"
-  url: "https://www.github.com/example"
+  url: "https://github.com/lakrim92"
 
 - name: Stackoverflow
   icon: "fab fa-stack-overflow"
-  url: "#"
+  url: "https://stackoverflow.com/users/20127426/lakrim92"
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "#"
-
-- name: Twitter
-  icon: "fab fa-twitter"
-  url: "#"
-
-- name: Facebook
-  icon: "fab fa-facebook"
-  url: "#"
-
-- name: Mastadon
-  icon: "fab fa-mastodon"
-  url: "#"
-  rel: "me noopener"
-
-- name: ResearchGate
-  icon: "fab fa-researchgate"
-  url: "https://www.researchgate.net/profile/john-doe"
+  url: "https://linkedin.com/in/georges-dietrich-5ab82b14a"
 
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
 resourceLinks:
 - title: "My Resume"
-  url: "files/resume.pdf"
+  url: "files/CV-2025.pdf"
 
 # Show your badges
-# You can show your verifiable certificates from https://www.credly.com.
+# You can show your verifiable certificates bnom https://www.credly.com.
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
 - type: certification
-  name: Certified Kubernetes Security Specialist
-  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-  badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
+  name: Certified Python Openclassrooms et le CNAM
+  url: "https://openclassrooms.com/fr/course-certificates/9983336297"
+  badge: "https://www.python.org/static/community_logos/python-powered-h.svg"
 
 - type: certification
-  name: Istio and IBM Cloud Kubernetes Service
-  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-  badge: "https://images.credly.com/size/680x680/images/8d34d489-84bf-4861-a4a0-9e9d68318c5c/Beyond_basics_of_Istio_on_Cloud_v2.png"
+  name: Certified Docker Openclassrooms et le CNAM
+  url: "https://openclassrooms.com/fr/course-certificates/8665668863"
+  badge: "https://www.kindpng.com/picc/m/342-3423390_docker-icon-png-transparent-png.png"
 
 - type: certification
-  name: Artificial Intelligence and Machine Learning
-  url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
-  badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
+  name: Certified Linux Openclassrooms et le CNAM
+  url: "https://openclassrooms.com/fr/course-certificates/5322438441"
+  badge: "https://www.kindpng.com/picc/m/290-2902020_linux-penguin-linux-penguin-gif-hd-png-download.png"
 
 - type: soft-skill-indicator
   name: Leadership

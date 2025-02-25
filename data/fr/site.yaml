@@ -1,0 +1,19 @@
+# Copyright Notice
+copyright: © 2025 Copyright.
+
+# Meta description for your site.  This will help the search engines to find your site.
+description: Le portfolio de Georges Dietrich.
+
+# specify the list of custom menus that you want to show in the top navbar.
+# they will be separated by a divider bnom the main menus.
+# customMenus:
+# - name: Documentation
+#   url: https://toha-guides.netlify.app/posts/
+
+# Specify OpenGraph Headers
+openGraph:
+  title: Le blog de Georges
+  type: website
+  description: Le portfolio de Georges Dietrich.
+  image: images/author/imgProfil.png
+  url: "#"

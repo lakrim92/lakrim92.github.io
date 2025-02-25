@@ -1,0 +1,14 @@
+# section information
+section:
+  name: Réalisations # Titre de votre section (default: "")
+  id: achievements # URL id/slug de section *valeur à conserver & obligatoire*
+  enable: true # Booléen pour déterminer si la section est activée (par défaut: false)
+  weight: 10 # Ordre d'affichage de la section (par defaut: alphabetique suivi par poids)
+  showOnNavbar: true # Booléen pour déterminer si le lien doit être affiché pour cette section dans la barre de navigation
+  # Peut optionnellement masquer les titres de la section
+  # hideTitle: true
+
+achievements:
+- title: Site web Escalier de service
+  image: images/sections/achievements/escalierdeservice.png
+  summary: Création d'un site web pour une maison d'edition "Escalier de service", avec gestion dynamique des auteurs et des livres, ainsi qu'une interface d'administration permettant la gestion des contenus, des stocks, et des catégories. Le site intègre également des fonctionnalités de sécurité, telles que la gestion des accès et des mises à jour en temps réel.
