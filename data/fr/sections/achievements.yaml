@@ -12,23 +12,23 @@ achievements:
 - title: AI AutoHeal — Agence Web & DevOps
   image: images/sections/achievements/ai-autoheal.png
   url: "https://ai-autoheal.com"
-  summary: Création du site vitrine de l'agence AI AutoHeal, spécialisée dans le développement web sur mesure, le DevOps et le cloud. Le site présente l'offre de services (développement fullstack, applications mobiles, UI/UX, copywriting, consulting) ainsi que les projets SaaS en cours — WebAudit Pro et ArbitrageAI. Stack visible : Laravel, React, Docker, Kubernetes, AWS/Azure/GCP.
+  summary: "Création du site vitrine de l'agence AI AutoHeal, spécialisée dans le développement web sur mesure, le DevOps et le cloud. Le site présente l'offre de services (développement fullstack, applications mobiles, UI/UX, copywriting, consulting) ainsi que les projets SaaS en cours — WebAudit Pro et ArbitrageAI. Stack visible : Laravel, React, Docker, Kubernetes, AWS/Azure/GCP."
 
 - title: WebAudit Pro — Plateforme d'audit web automatisée
   image: images/sections/achievements/webaudit-pro.png
   url: "https://audit.ai-autoheal.com"
-  summary: Développement d'une plateforme SaaS d'audit web générant des rapports techniques complets en moins de 3 minutes. Analyse de performances (Core Web Vitals), sécurité (SSL/TLS, OWASP, en-têtes HTTP), SEO technique (métadonnées, Schema.org, sitemap) et conformité RGPD/CNIL. Export PDF professionnel, intégration Stripe pour les abonnements et webhooks Slack/Zapier.
+  summary: "Développement d'une plateforme SaaS d'audit web générant des rapports techniques complets en moins de 3 minutes. Analyse de performances (Core Web Vitals), sécurité (SSL/TLS, OWASP, en-têtes HTTP), SEO technique (métadonnées, Schema.org, sitemap) et conformité RGPD/CNIL. Export PDF professionnel, intégration Stripe pour les abonnements et webhooks Slack/Zapier."
 
 - title: Panuozzo Bougival — Site de commande en ligne
   image: images/sections/achievements/panuozzo-bougival.png
   url: "https://panuozzo-bougival.fr"
-  summary: Conception et développement du site web de la pizzeria Panuozzo Bougival, avec système de commande en ligne (livraison & à emporter), gestion de menu dynamique (30+ pizzas), intégration Stripe pour les paiements, et tableau de bord d'administration. Livraison gratuite sur 3 communes, remise 10 % sur la première commande.
+  summary: "Conception et développement du site web de la pizzeria Panuozzo Bougival, avec système de commande en ligne (livraison & à emporter), gestion de menu dynamique (30+ pizzas), intégration Stripe pour les paiements, et tableau de bord d'administration. Livraison gratuite sur 3 communes, remise 10 % sur la première commande."
 
 - title: My Thai Street Food — Commande en ligne restaurant thaï
   image: images/sections/achievements/mythai.png
   url: "https://mythai.fr"
-  summary: Développement de la plateforme de commande en ligne du restaurant My Thai Street Food à Bougival, spécialisé dans la cuisine thaïlandaise de rue. Système de commande avec panier et paiement en ligne, menu complet (street food, currys, nouilles), intégration Google Maps, design responsive et optimisation WebP. Livraison multi-communes.
+  summary: "Développement de la plateforme de commande en ligne du restaurant My Thai Street Food à Bougival, spécialisé dans la cuisine thaïlandaise de rue. Système de commande avec panier et paiement en ligne, menu complet (street food, currys, nouilles), intégration Google Maps, design responsive et optimisation WebP. Livraison multi-communes."
 
 - title: Site web Escalier de service
   image: images/sections/achievements/escalierdeservice.png
-  summary: Création d'un site web pour une maison d'edition "Escalier de service", avec gestion dynamique des auteurs et des livres, ainsi qu'une interface d'administration permettant la gestion des contenus, des stocks, et des catégories. Le site intègre également des fonctionnalités de sécurité, telles que la gestion des accès et des mises à jour en temps réel.
+  summary: "Création d'un site web pour une maison d'edition Escalier de service, avec gestion dynamique des auteurs et des livres, ainsi qu'une interface d'administration permettant la gestion des contenus, des stocks, et des catégories. Le site intègre également des fonctionnalités de sécurité, telles que la gestion des accès et des mises à jour en temps réel."
