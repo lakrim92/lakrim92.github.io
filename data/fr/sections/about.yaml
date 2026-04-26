@@ -59,12 +59,12 @@ badges:
 - type: certification
   name: Certifié Docker Openclassrooms et le CNAM
   url: "https://openclassrooms.com/fr/course-certificates/8665668863"
-  badge: "https://www.kindpng.com/picc/m/342-3423390_docker-icon-png-transparent-png.png"
+  badge: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
 
 - type: certification
   name: Certifié Linux Openclassrooms et le CNAM
   url: "https://openclassrooms.com/fr/course-certificates/5322438441"
-  badge: "https://www.kindpng.com/picc/m/290-2902020_linux-penguin-linux-penguin-gif-hd-png-download.png"
+  badge: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
 
 - type: soft-skill-indicator
   name: Fullstack Web
