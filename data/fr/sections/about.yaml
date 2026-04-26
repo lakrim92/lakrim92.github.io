@@ -8,15 +8,19 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Développeur Web Fullstack Flutter & DevOps
+designation: Fondateur AI AutoHeal · Fullstack & DevOps
 # your company information
-# company: #
-#   name: #
-#   url: "#"
-
+company:
+  name: AI AutoHeal
+  url: "https://ai-autoheal.com"
 
 # a summary about you
-summary: "Je suis un jeune développeur web full-stack dynamique, spécialisé en Flutter, PHP et DevOps. Mon expertise me permet de concevoir des applications web interactives et performantes tout en développant des scripts d'automatisation sophistiqués. Je me spécialise également dans la création de serveurs sécurisés et de systèmes d'exploitation personnalisés, optimisant ainsi l'infrastructure pour répondre aux besoins spécifiques de chaque projet.<br><br> En parallèle, je perfectionne mes compétences avec des certifications en cours chez OpenClassrooms, Cisco Packet Tracer, et AWS, pour rester à la pointe des innovations technologiques.<br><br> Diplômé en Développement et Exploitation Informatique du CNAM de Paris, je combine une solide formation académique avec une pratique professionnelle approfondie pour offrir des solutions modernes et efficaces dans le domaine du développement et des opérations."
+summary: |
+  Je suis Georges, développeur fullstack et DevOps basé en Île-de-France. J'ai fondé **AI AutoHeal**, une agence tech spécialisée dans le développement sur mesure, l'automatisation et le cloud. On y construit aussi des produits SaaS maison : **WebAudit Pro** pour l'audit web automatisé, et **ArbitrageAI** pour le trading algorithmique.
+
+  Mon terrain de jeu : concevoir des architectures solides, automatiser ce qui peut l'être, et livrer des produits qui tournent en prod — pas juste des maquettes. Du backend au déploiement, je gère l'ensemble du cycle.
+
+  Diplômé du CNAM Paris en Développement et Exploitation Informatique, certifié Python, Docker et Linux.
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -63,19 +67,19 @@ badges:
   badge: "https://www.kindpng.com/picc/m/290-2902020_linux-penguin-linux-penguin-gif-hd-png-download.png"
 
 - type: soft-skill-indicator
-  name: Leadership
-  percentage: 85
+  name: Fullstack Web
+  percentage: 90
   color: blue
 
 - type: soft-skill-indicator
-  name: Team Work
-  percentage: 90
-  color: yellow
-
-- type: soft-skill-indicator
-  name: Hard Working
+  name: DevOps & Cloud
   percentage: 85
   color: orange
+
+- type: soft-skill-indicator
+  name: IA & Automatisation
+  percentage: 80
+  color: yellow
 
 # you can also provide color code instead of the color name
 # - type: soft-skill-indicator
