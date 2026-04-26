@@ -19,7 +19,23 @@ buttons:
   filter: "hobby"
 
 projects:
-- name: Création d'une IA d’Auto-Guérison
+- name: CopyMaster Pro — Outil de copywriting IA
+  logo: images/sections/projects/copymaster-pro.png
+  role: Développeur Fullstack / Product Owner
+  timeline: "2025 - Présent"
+  url: "https://copy.ai-autoheal.com"
+  summary: Développement de CopyMaster Pro, une application SaaS de génération de contenu assistée par intelligence artificielle. L’outil permet de produire des textes marketing, pages de vente, emails et contenus web optimisés SEO en quelques secondes. Projet en développement actif sous l’égide de l’agence AI AutoHeal.
+  tags: ["hobby", "IA", "copywriting", "SaaS", "NLP", "automatisation", "marketing"]
+
+- name: ArbitrageAI — Bot de trading crypto
+  logo: images/sections/projects/ai-autoheal-logo.png
+  role: Développeur IA / Quant Developer
+  timeline: "Février 2025 - Présent"
+  url: "https://arbitrage.ai-autoheal.com"
+  summary: Développement d’un bot de trading algorithmique basé sur une stratégie d’arbitrage grid sur les crypto-monnaies. Le système place automatiquement des ordres d’achat et de vente à intervalles réguliers (grille de prix) pour capturer les variations de marché, avec gestion des risques intégrée et monitoring en temps réel. Déployé sur infrastructure VPS/cloud. Projet en recherche d’investisseurs.
+  tags: ["hobby", "trading algorithmique", "crypto", "arbitrage", "grid trading", "automatisation", "cloud", "VPS"]
+
+- name: Création d’une IA d’Auto-Guérison
   logo: images/site/light-logo.png
   role: "Développeur IA / Data Scientist"
   timeline: "Mars 2025 - Présent" 
