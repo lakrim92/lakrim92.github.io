@@ -12,6 +12,22 @@ section:
 # Vos expériences
 experiences:
   - company:
+      name: AI AutoHeal
+      url: "https://ai-autoheal.com"
+      location: Île-de-France
+      logo: /images/site/light-logo.png
+      overview: AI AutoHeal est l'agence tech que j'ai fondée, spécialisée dans le développement web sur mesure, le DevOps et l'automatisation. Nous accompagnons des clients dans la création de leurs outils digitaux, de la conception au déploiement en production.
+    positions:
+      - designation: Fondateur & Développeur Fullstack
+        start: Septembre 2024
+        responsibilities:
+          - "Création et livraison du site de commande en ligne de la pizzeria Panuozzo Bougival (panuozzo-bougival.fr) : menu dynamique, système de commande avec paiement Stripe, tableau de bord d'administration, livraison multi-communes."
+          - "Création et livraison du site de commande en ligne du restaurant My Thai Street Food (mythai.fr) : menu complet, commande en ligne, intégration Google Maps, design responsive et optimisation des performances."
+          - Développement de WebAudit Pro, plateforme SaaS d'audit web automatisé générant des rapports techniques complets (performances, SEO, sécurité, RGPD) en moins de 3 minutes.
+          - Développement d'ArbitrageAI, bot de trading algorithmique basé sur une stratégie de grid sur les crypto-monnaies, déployé sur infrastructure cloud.
+          - Gestion complète des projets clients — de la prise de besoin au déploiement en production.
+
+  - company:
       name: Escalier de service
       url: "https://www.escalierdeservice.fr" # Remplacez par l'URL réelle si disponible
       location: Bougival
